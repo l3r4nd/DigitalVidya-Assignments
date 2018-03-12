@@ -11,6 +11,6 @@ Capstone Project from **Digital Vidya** for Classification of text.
 
 * Text Cleaning Using Regex module.
 
-* Visualizing the data using Seaborn and Word Cloud.
+* Visualizing the data using Matplotlib and Word Cloud.
 
 * Building a Sentiment Analysis Classifier.
